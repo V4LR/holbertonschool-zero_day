@@ -1,1 +1,1 @@
-Working on Git
+How to be up to date in git
